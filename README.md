@@ -39,7 +39,7 @@ python3 -m pip install -r requirements.txt
     # Install, import, and add snowlib.start(...) here ---->
     ```
 
-5. Execute the `main.py` file
+5. Execute the `main.py` file.
 6. Wait a few seconds and... check out the tests Snowmate generated for you!
 
 
