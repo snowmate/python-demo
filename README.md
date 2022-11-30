@@ -45,13 +45,13 @@ python3 -m pip install -r requirements.txt
 
 &nbsp;&nbsp;
 
-#### On VSCode. click on the "Snow Snowmate tests" button to see the generated tests
+#### On VSCode, click on the "Snow Snowmate tests" button to see the generated tests:
 
 ![VSCode with Snowmate](/assets/VSCode.png?raw=true "")
 
 
 
-#### On PyCharm, click on the Snowmate's dog logo to see the generated tests
+#### On PyCharm, click on the Snowmate's dog logo to see the generated tests:
 
 ![PyCharm with Snowmate](/assets/PyCharm.png?raw=true "")
 
