@@ -1,14 +1,12 @@
 <p align="center">
-    <img  width="30%" height="30%" src=/assets/logo.png>
+    <img  width="20%" height="20%" src=/assets/logo.png>
 </p>
 
 
 # Snowmate - Python Demo
 &nbsp;&nbsp;
 
-Snowmate generates unit tests with inputs, mocks and assertions based on your Software behviour. 
-
-
+Snowmate generates unit tests with inputs, mocks and assertions based on your software's behaviour. 
 
 This demo project will allow you to feel how Snowmate works like, generate unit tests and easily execute them.
 Snowmate can support any Python project and save a considerable amount of time on test authoring. 
