@@ -1,5 +1,5 @@
 <p align="center">
-    <img  width="50%" height="50%" src=/assets/logo.png>
+    <img  width="30%" height="30%" src=/assets/logo.png>
 </p>
 
 
@@ -21,7 +21,7 @@ Clone this project and install the requirements.txt file
 
 ```shell
 git clone https://github.com/snowmate/python-demo.git
-cd snowmate-demo
+cd python-demo
 python3 -m pip install -r requirements.txt
 ```
 
