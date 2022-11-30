@@ -6,10 +6,10 @@
 # Snowmate - Python Demo
 &nbsp;&nbsp;
 
-Snowmate generates unit tests with inputs, mocks and assertions based on your software's behaviour. 
+Snowmate generates unit tests with inputs, mocks, and assertions based on your software's behavior. &nbsp;&nbsp;
 
-This demo project will allow you to feel how Snowmate works like, generate unit tests and easily execute them.
-Snowmate can support any Python project and save a considerable amount of time on test authoring. 
+This demo project will allow you to feel how Snowmate works, generate unit tests, and quickly execute them.
+Snowmate can support any Python project and save a considerable amount of time on test authoring.
 
 &nbsp;&nbsp;
 
@@ -30,13 +30,13 @@ python3 -m pip install -r requirements.txt
 
 1. Download Snowmate's VSCode extension / PyCharm plugin [here](download.snowmate.io).
 
-2. After download, a sign in modal will pop up in your IDE. Use your email to sign into Snowmate.
-3. After sign in, open the `main.py` file, and a short onboarding process will immediately start.
-4. After adding snowlib.start to your code [onboarding step 4/4], execute the `main.py` file.
+2. A sign-in modal will pop up in your IDE after downloading. Use your email to sign in to Snowmate.
+3. After signing in, open the `main.py` file, and a short onboarding process will start immediately.
+4. After adding snowlib.start to your code [Onboarding step 4/4], execute the `main.py` file.
    Make sure to add snowlib.start in `main.py`, where this comment appears:
 
     ```python
-    # Install, import and add snowlib.start(...) here ---->
+    # Install, import, and add snowlib.start(...) here ---->
     ```
 
 5. Execute the `main.py` file
@@ -59,7 +59,6 @@ python3 -m pip install -r requirements.txt
 &nbsp;&nbsp;
 
 &nbsp;&nbsp;
-
 
 
 
