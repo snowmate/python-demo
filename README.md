@@ -1,4 +1,6 @@
-![PyCharm with Snowmate](/assets/logo.png?raw=true "")
+<p align="center">
+    <img  width="50%" height="50%" src=/assets/logo.png>
+</p>
 
 
 # Snowmate - Python Demo
